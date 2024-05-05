@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #001042;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    /* background-repeat: no-repeat; */
+    background-image: url('https://i.gifer.com/J4o.gif');
+}
